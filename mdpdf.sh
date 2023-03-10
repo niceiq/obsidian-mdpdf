@@ -11,7 +11,7 @@
 file=$1 # file name
 export_name=$2 # name of the exported pdf file (don't add the ".pdf" extension)
 directory="/home/iq/notes_export" # export directory
-vault_path=library/3\ BRAIN\ CELLS/
+vault_path=/home/iq/library/3\ BRAIN\ CELLS/
 base_name=$(basename "${file}")
 i=1
 
